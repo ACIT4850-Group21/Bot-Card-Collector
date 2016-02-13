@@ -6,4 +6,4 @@ CS: Test, test!
 
 Karl: Gundam King
 
-Simon: please. i have a family
+Simon: please. i have a

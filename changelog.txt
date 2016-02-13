@@ -32,3 +32,13 @@ MM/DD/YY @ HH:MM - Description of change - (Initials)
 02/12/16 @ 16:16 - Created Players.php model - (JL)
 02/12/16 @ 16:16 - Created Series.php model - (JL)
 02/12/16 @ 16:17 - Created Transactions.php model - (JL)
+
+02/12/16 @ 17:15 - Created login.php controller - (SS)
+02/12/16 @ 17:22 - Created login.php view - (SS)
+02/12/16 @ 17:43 - Updated login.php controller to hold session variables - (SS)
+02/12/16 @ 17:45 - Updated autoload.php libraries - (SS)
+02/12/16 @ 17:54 - Updated MY_Controller.php - (SS)
+02/12/16 @ 17:58 - Created home_view.php view - (SS)
+
+02/13/16 @ 12:45 - Updated css - (SS)
+
