@@ -57,7 +57,6 @@ class Welcome extends Application {
             $this->data['transactions_title'] = $transactions_title;
             $this->data['gamestatus'] = $store_data . $series_data . $player_store_data;
             $this->data['playerstatus'] = $player_data;
-            $this->data['transactions'] = $transaction_data;
             $this->data['gamestatus_state'] = 'Round #' . $this->botserver->get_round() . ' - ' . $this->botserver->get_state();
             $this->render();
         }
