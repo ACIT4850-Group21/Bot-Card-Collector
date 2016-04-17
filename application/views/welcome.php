@@ -7,5 +7,19 @@
 
 <!-- area to be populated with player info along with # of peanuts and equity owned -->
 <div class="right-panel">
-    {wtable}
+    <table>
+    <div>{playerstatus_title}</div>
+    <tr>
+      <td>Player</td>
+      <td>Peanuts</td>
+      <td>Equity</td>
+    </tr>
+    {playerstatus}
+    <tr>
+        <td><a href="{playerlink}">{playername}</a></td>
+        <td>{playerpeanuts}</td>
+        <td>{playerequity}</td>
+    </tr>
+    {/playerstatus}
+    </table>
 </div>
