@@ -63,3 +63,22 @@ MM/DD/YY @ HH:MM - Description of change - (Initials)
 02/15/16 @ 16:05 - Modified assembly view/controller to show proper selections - (JL, SS)
 02/15/16 @ 17:48 - Modified welcome view/controller to show game summary - (JL)
 02/15/16 @ 18:58 - Modified CSS files for better visuals - (JL, SS)
+
+--ASG 2--
+
+04/15/16 @ 14:25 - Created a functional login/logout to the web app (CS)
+04/15/16 @ 14:37 - Created a Login.php controller to handle user logins (CS)
+04/15/16 @ 14:37 - Created a Botserver.php model to handle server communications (JL)
+04/15/16 @ 15:01 - Created a Register.php controller to handle new account creation (CS)
+04/15/16 @ 15:59 - Created a gamestatus.php model to retreive the status (JL)
+04/15/16 @ 18:30 - Created a User.php model to get user info from DB (JL)
+04/15/16 @ 15:45 - Created separate views for non-/authenticated users (CS)
+04/15/16 @ 16:33 - Modified MY_Controller.php to render the appropriate views (CS)
+04/15/16 @ 17:31 - Added a logout function inside MY_Controller.php (CS)
+
+04/16/16 @ 11:30 - Modified base url in config.php (CS)
+04/16/16 @ 11:35 - Modified the proper dbs name in database.php (CS)
+04/16/16 @ 11:40 - Started an Admin.php controller (CS)
+04/16/16 @ 12:00 - Created an admin.php view (CS)
+04/16/16 @ 13:00 - Modified welcome.php view to display appropriate player data (JL)
+
